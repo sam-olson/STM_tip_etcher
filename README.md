@@ -90,6 +90,6 @@ The firmware for the system (`STM_tip_etcher.ino`) is designed to be easy to mod
 
 Figure 5: An STM tip etched from 0.25 mm tungsten wire using this system
 
-![fig6](/figures/Figure6.jpg)
+![fig6](/figures/Figure6.jpg | width=500)
 
 Figure 6: STM micrograph of highly oriented pyrolytic graphite (HOPG) taken using a tip etched with this system
